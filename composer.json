@@ -1,6 +1,6 @@
 {
-    "name": "inviqa/magento-community",
-    "description": "Inviqa Magento Community Installation",
+    "name": "public-desire/magento-community",
+    "description": "Public Desire Magento Community Installation",
     "license":"OSL-3.0",
     "type": "magento-core",
     "repositories": [
