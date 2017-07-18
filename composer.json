@@ -1,6 +1,6 @@
 {
-    "name": "public-desire/magento-community",
-    "description": "Public Desire Magento Community Installation",
+    "name": "tall-paul/magento-community",
+    "description": "Magento Community Installation",
     "license":"OSL-3.0",
     "type": "magento-core",
     "repositories": [
